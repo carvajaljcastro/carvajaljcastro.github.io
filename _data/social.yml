@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto://carvajaljcastro@gmail.com
+  icon: fas fa-envelope
+- title: Twitter
+  url: https://twitter.com/carvajaljcastro
+  icon: fab fa-twitter
+- title: GitHub
+  url: 
+  icon: fab fa-github
