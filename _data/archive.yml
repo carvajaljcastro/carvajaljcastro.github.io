@@ -1,13 +1,12 @@
-- type: dates
+  type: dates
   title: Dates
   url: /dates/
 #- type: categories
 #  title: Categories
 #  url: /categories/
-- type: tags
+  type: tags
   title: Tags
   url: /tags/
-
-type: publications
+  type: publications
   title: Publications
   url: /publications/
