@@ -1,4 +1,4 @@
--type: dates
+type: dates
 title: Dates
 url: /dates/
 #- type: categories
@@ -7,6 +7,6 @@ url: /dates/
 - type: tags
   title: Tags
   url: /tags/
-type: publications
+-type: publications
   title: Publications
   url: /publications/
