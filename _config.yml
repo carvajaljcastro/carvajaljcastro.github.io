@@ -2,10 +2,10 @@
 title: Juan D. Carvajal-Castro
 description: Ph.D Student at SJU. (Santos lab)
 url: 
-avatar: /Photos/cover.jpeg
+#avatar: /Photos/cover.jpeg
 paginate: 5
 permalink: pretty
-#cover_image: /Photos/background.jpeg
+cover_image: /Photos/background.jpeg
 
 # Gems
 plugins:
