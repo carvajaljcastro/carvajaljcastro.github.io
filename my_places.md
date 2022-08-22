@@ -1,6 +1,6 @@
 ---
 layout: my_places_list
-permalink: /researchmy_places/
+permalink: /my_places/
 title: Where I've been
 type: my_places
 ---
