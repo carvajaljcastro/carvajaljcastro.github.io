@@ -10,3 +10,6 @@
 - type: My_places
   title: Where I've been
   url: /my_places/
+- type: My_codes
+  title: Some Codes
+  url: /some_code/
