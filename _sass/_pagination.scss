@@ -45,7 +45,7 @@ a.pagination-item:hover {
     }
     &:last-child {
       margin-left: -1px;
-      border-top-right-radius: 1px;
+      border-top-right-radius: var(--border-radius);
       border-bottom-right-radius: var(--border-radius);
     }
   }
