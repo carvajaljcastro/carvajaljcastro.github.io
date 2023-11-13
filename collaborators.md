@@ -1,5 +1,5 @@
 ---
-layout: collaborators_list.html
+layout: collaborators_list
 permalink: /collaborators/
 title: Collaborators
 type: collaborators
