@@ -3,7 +3,7 @@
 // Update the foundational and global aspects of the page.
 
 * {
-  box-sizing: padding-box;
+  box-sizing: border-box;
 }
 
 body {
@@ -56,7 +56,7 @@ th {
 }
 
 th {
-  text-align: center;
+  text-align: left;
 }
 
 thead th {
