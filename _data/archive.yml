@@ -4,16 +4,17 @@
 - type: publications
   title: Publications
   url: /publications/
-#- type: categories
-#  title: Categories
-#  url: /categories/
+- type: collaborators
+  title: Collaborators
+  url: /collaborators/
 - type: My_places
   title: Where I've been
   url: /my_places/
 - type: contact
   title: Contact
   url: /contact/
-
 - type: My_codes
   title: Some Codes
   url: /some_code/
+
+
