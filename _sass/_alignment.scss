@@ -9,15 +9,15 @@
 }
 
 .align-left {
-  margin-right: 0;
+  margin-right: 1rem;
   margin-bottom: 1rem;
-  float: center;
+  float: left;
 }
 
 .align-center {
-  float: center;
-  margin-right: 0;
-  margin-left: 0;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 figcaption.align-right {

@@ -15,9 +15,9 @@
 .content {
   padding-top: var(--spacer-2);
   padding-left: var(--spacer-2);
-  padding-right: 0;
-  margin-left:  0;
-  margin-right: 0;
+  padding-right: var(--spacer-2);
+  margin-left:  auto;
+  margin-right: auto;
   min-height: 100vh;
 }
 
@@ -37,7 +37,7 @@ footer {
   .content {
     padding-top: var(--spacer-3);
     padding-left: var(--spacer-3);
-    padding-right: 0;
+    padding-right: var(--spacer-3);
     margin-left: 25%;
   }
 
