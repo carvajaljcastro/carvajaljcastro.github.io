@@ -10,8 +10,7 @@
 - type: My_places
   title: Where I've been
   url: /my_places/
-
-  - type: Contact
+- type: contact
   title: Contact
   url: /contact/
 
