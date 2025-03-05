@@ -6,12 +6,18 @@
   }
   
   .publication-list {
-    list-style: decimal;
+    list-style: none;  /* Remove default numbering */
     padding-left: 20px;
+    counter-reset: publication-counter;  /* Initialize the counter */
   }
   
   .publication-list li {
     margin-bottom: 15px;
+    counter-increment: publication-counter;  /* Increment the counter */
+  }
+  
+  .publication-list li::before {
+    content: counter(publication-counter) ". ";  /* Display the counter number before the list item */
   }
   
   .publication-list a {
@@ -23,10 +29,9 @@
     text-decoration: underline;
   }
   
-  /* Added CSS to reverse the order of the publication list */
+  /* Reverse order styling */
   .reversed {
     display: flex;
     flex-direction: column-reverse;
-    list-style-type: decimal;
   }
   
