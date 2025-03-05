@@ -8,17 +8,18 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "_Books recomendations"
-    url: /_Books recomendations/    
+  - title: "Research"
+    url: /markdown/
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "CV"
+    url: /cv/
+
+  - title: "Books recomendations"
+    url: /Books recomendations/    
         
   - title: "Where I've been"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+
     
-  - title: "Research"
-    url: /markdown/
+ 
