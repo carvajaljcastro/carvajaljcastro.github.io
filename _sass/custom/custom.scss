@@ -1,0 +1,25 @@
+.scholar-box {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-left: 5px solid #0073e6;
+    font-size: 1.1em;
+  }
+  
+  .publication-list {
+    list-style: decimal;
+    padding-left: 20px;
+  }
+  
+  .publication-list li {
+    margin-bottom: 15px;
+  }
+  
+  .publication-list a {
+    color: #0073e6;
+    text-decoration: none;
+  }
+  
+  .publication-list a:hover {
+    text-decoration: underline;
+  }
+  
