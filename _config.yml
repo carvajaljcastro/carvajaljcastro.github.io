@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : Juan D. Carvajal-Castro Ph.D(c)"
+title                    : Juan D. Carvajal-Castro Ph.D(c)
 title_separator          : "-"
 name                     : &name "Juan D. Carvajal-Castro"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D stundet at st. John's University"
-  location         : "Earth"
+  location         : "Queens,NY"
   employer         : "st. John's University"
   uri              : # URL
   email            : "carvajaljcastro@gmail.com" 
@@ -210,16 +210,14 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  teaching:
     output: true
     permalink: /:collection/:path/
-  talks:
+  Books recomendations:
     output: true
     permalink: /:collection/:path/
 
@@ -262,21 +260,12 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _Books recomendations
   - scope:
       path: ""
-      type: portfolio
+      type: Books recomendations
     values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
+      layout: Books recomendations
       author_profile: true
       share: true
 
