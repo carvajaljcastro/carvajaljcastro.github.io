@@ -13,19 +13,19 @@ title                    : Juan D. Carvajal-Castro Ph.D(c)"
 title_separator          : "-"
 name                     : &name "Juan D. Carvajal-Castro"
 description              : &description "personal description"
-url                      : https://carvajaljcastro.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://carvajaljcastro.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "carvajaljcastro/carvajaljcastro.github.io/"
+repository               : "carvajaljcastro/carvajaljcastro.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "cover.jpeg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D stundet at st. John's University"
   location         : "Earth"
   employer         : "st. John's University"
   uri              : # URL
