@@ -22,10 +22,10 @@ repository               : "carvajaljcastro/carvajaljcastro.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cover.jpeg"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Ph.D"
+  #avatar           : "cover.jpeg"
+  #name             : "Your Sidebar Name"
+  #pronouns         : # example: "she/her"  
+  #bio              : "Ph.D"
   location         : "Queens,NY"
   employer         : "st. John's University"
   uri              : # URL
